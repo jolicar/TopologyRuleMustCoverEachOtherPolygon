@@ -9,7 +9,7 @@ This test case checks the topology rule when we use correct 2D polygon datasets.
 ### Requirements
 
 1. Have *gvSIG desktop 2.5.1* and *Topology framework plugin* installed.
-2. Have acces to [**TP00RU04CP0000_pol2D1_C.csv**]() and [**TP00RU04CP0000_pol2D2_C.csv**]() files.
+2. Have acces to [**TP00RU04CP0000_pol2D1_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0000_2DpolC_2DpolC/TP00RU02CP0000_pol2D1_C.csv) and [**TP00RU04CP0000_pol2D2_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0000_2DpolC_2DpolC/TP00RU02CP0000_pol2D2_C.csv) files.
 
 ### Steps...
 
@@ -36,4 +36,4 @@ The expected results are the *Inspector de errores del Plan de topologia* window
 In case the obtained results are not correct, you can report an issue on *redmine* of *gvSIG deskop*. You can locate at
 https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues .
 
-[Open a a new issue of this test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=TP00RU04CP0000+Test+that+all+dataset+1+2D+polygons+must be+covered+to+dataset+2+2D+polygons)
+[Open a a new issue of this test](https://redmine.gvsig.net/redmine/projects/gvsig-desktop/issues/new?issue[subject]=TP00RU04CP0000+Test+that+all+dataset+1+2D+polygons+must+be+covered+to+dataset+2+2D+polygons)
