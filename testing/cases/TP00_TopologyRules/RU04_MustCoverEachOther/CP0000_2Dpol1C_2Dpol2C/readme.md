@@ -9,7 +9,7 @@ This test case checks the topology rule when we use correct 2D polygon datasets.
 ### Requirements
 
 1. Have *gvSIG desktop 2.5.1* and *Topology framework plugin* installed.
-2. Have acces to [**TP00RU04CP0000_pol2D1_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0000_2DpolC_2DpolC/TP00RU02CP0000_pol2D1_C.csv) and [**TP00RU04CP0000_pol2D2_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0000_2DpolC_2DpolC/TP00RU02CP0000_pol2D2_C.csv) files.
+2. Have acces to [**TP00RU04CP0000_pol2D1_C.csv**]() and [**TP00RU04CP0000_pol2D2_C.csv**]() files.
 
 ### Steps...
 
