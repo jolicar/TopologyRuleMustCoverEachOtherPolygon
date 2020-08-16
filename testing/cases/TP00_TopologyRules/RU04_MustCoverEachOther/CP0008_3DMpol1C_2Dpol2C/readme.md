@@ -9,7 +9,7 @@ This test case checks the topology rule when we use a correct 3DM polygon datase
 ### Requirements
 
 1. Have *gvSIG desktop 2.5.1* and *Topology framework plugin* installed.
-2. Have acces to [**TP00RU04CP0008_pol3DM1_C.csv**]() and [**TP00RU04CP0008_pol2D2_C.csv**]() files.
+2. Have acces to [**TP00RU04CP0008_pol3DM1_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0008_3DMpol1C_2Dpol2C/TP00RU04CP0008_pol3DM1_C.csv) and [**TP00RU04CP0008_pol2D2_C.csv**](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/testing/cases/TP00_TopologyRules/RU04_MustCoverEachOther/CP0008_3DMpol1C_2Dpol2C/TP00RU04CP0008_pol2D2_C.csv) files.
 
 ### Steps...
 
