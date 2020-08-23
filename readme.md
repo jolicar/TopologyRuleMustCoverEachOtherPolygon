@@ -1,5 +1,5 @@
 # Must Cover Each Other Polygon Topology Rule
-![TopologyRule]()
+![TopologyRule](https://github.com/jolicar/TopologyRuleMustCoverEachOtherPolygon/blob/master/img/TP00RU04_img1.png)
 * **Rule type:** *Polygon rule*
 * **Primary dataset:** Polygon dataset (2D, 2DM, 3D and 3DM) (*Multygeometry allowed*)
 * **Secundary dataset:** Polygon dataset (2D, 2DM, 3D and 3DM) (*Multygeometry allowed*)
