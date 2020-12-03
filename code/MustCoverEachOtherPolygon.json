@@ -1,6 +1,6 @@
 {
     "id": "MustCoverEachOtherPolygon",
-    "name": "Must Cover Each Other Polygon GSoC2020",
+    "name": "Must Cover Each Other Polygon",
     "description": [ 
         "<img src=\"@@@.png\">\n",     
         " The rule evaluates all the polygons. All dataset 2 polygon areas must cover the dataset 1 polygon area. The rule returns False when a part of the dataset 1 polygon area is not covered or not completely covered. In 2DM, 3D and 3DM formats, the Z coordinate or M coordinate are ignored.\n \n NOTE 1: The Tolerance parameter is useless for this rule."
